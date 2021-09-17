@@ -1,0 +1,1 @@
+Now this grid is responsive by adding some bootstrap classes.
