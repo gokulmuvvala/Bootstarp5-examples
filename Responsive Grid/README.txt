@@ -1,1 +1,1 @@
-Now this grid is responsive by adding some bootstrap classes.
+Now this grid is responsive by adding some bootstrap column classes.
